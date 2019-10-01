@@ -1,0 +1,6 @@
+
+create target audience segment
+=========================================
+sharing settings->metadata
+
+here we need to change the public user restricted user

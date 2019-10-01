@@ -1,0 +1,7 @@
+1)add headline
+2)create communication campaign
+3)view czmpign details
+4)add communication record name
+5)subheadline
+6)select comunication categories
+7)select communication campaign
