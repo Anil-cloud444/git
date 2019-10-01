@@ -1,0 +1,17 @@
+1)thumbnail image button should be Upload image but actual is upload files
+2)In featured media select an image from your computer should be Upload image but actual upload files
+  In insert Deloitte Media portal Id search field "Enter 13-digit Id" should not be greyed out
+3)cancel and add button size difference is there
+4)In attachments also attachments button should be Upload attachments but actual Upload files
+5)after uploading we are not seeing thumnail image,featured image file and attachments in review and submitt page
+6)we are not seeing additional media image also
+7)publish date and Audience archive date is taking as default not reflecting our given date and time
+8)after submitting the page we are not seeing any message blank screen is coming
+
+
+1)article contact not visible
+2)publisher date and time is not visible
+3)body copy2 is also not getting displayed
+4)thumbnail image and featured images are not showing
+
+
